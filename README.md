@@ -5,6 +5,11 @@
 CS50's Web Programming with Python and JavaScript
 
 - lecture 0 - HTML/CSS
-- lecture 1 - GIT/GITHUB
+  - heading
+  - style
+  - attribute
+  - bootstrap
+  - fonts
+- lecture 1 - GIT/GitHub
 - lecture 2 - Python
 - lecture 3 - Django
