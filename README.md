@@ -18,5 +18,11 @@ CS50's Web Programming with Python and JavaScript
   - grid
   - flexbox
 - lecture 1 - GIT/GitHub
+  - push
+  - pull
+  - commit
+  - add
+  - checkout
+  - log
 - lecture 2 - Python
 - lecture 3 - Django
