@@ -10,6 +10,13 @@ CS50's Web Programming with Python and JavaScript
   - attribute
   - bootstrap
   - fonts
+  - form
+  - hover
+  - media(responsive)
+  - table
+  - variables
+  - grid
+  - flexbox
 - lecture 1 - GIT/GitHub
 - lecture 2 - Python
 - lecture 3 - Django
