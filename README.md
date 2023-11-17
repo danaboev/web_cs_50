@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------
 CS50's Web Programming with Python and JavaScript
 ----------------------------------------------------------------------
-- lecture 0 - HTML/CSS
+- lecture 0 - HTML/CSS(base)
   - heading
   - style
   - attribute
