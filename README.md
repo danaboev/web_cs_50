@@ -13,7 +13,7 @@ CS50's Web Programming with Python and JavaScript
   - fonts
   - form
   - hover
-  - media(responsive)
+  - media(responsive-adaptive)
   - table
   - variables
   - grid
