@@ -25,6 +25,8 @@ CS50's Web Programming with Python and JavaScript
   - pull
   - commit
   - add
+  --------------------------------------------------------
+  lecture 2
   - checkout
   - log
 ----------------------------------------------------------------------
